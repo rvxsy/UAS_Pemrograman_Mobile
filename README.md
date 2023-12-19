@@ -1,16 +1,15 @@
-# flutter_application_3
+# Implementasi UI UAS Pemrograman Mobile
 
-A new Flutter project.
+### Hasil Run :
+<img src="https://github.com/rvxsy/UAS_Pemrograman_Mobile/assets/93964218/86231f73-e054-48ef-b5a7-79409f094c9d" width=300>
+<img src="https://github.com/rvxsy/UAS_Pemrograman_Mobile/assets/93964218/87bb6574-84d4-4464-8506-c47fce64993a" width=300>
 
-## Getting Started
+## Cara Menjalankan Repository
+1. Jalankan "git clone https://github.com/nadyapurba/UASPemrogramanMobile.git" untuk meng-_clone_ direktori ke Local
+2. Masuk ke dalam Code Editor (Visual Studio Code, dll)
+3. _Run_ "flutter pub get"
+4. Jalankan Emulator
+5. Jalankan "flutter run" untuk menjalankan aplikasi Flutter di emulator.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Badge Developer Android
+<img width="500" alt="image" src="https://github.com/rvxsy/UAS_Pemrograman_Mobile/assets/93964218/1a58af16-b5bb-4ca8-950b-faf9306867d4">
